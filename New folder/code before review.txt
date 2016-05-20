@@ -1,0 +1,101 @@
+using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+               List<string> list_pn=new List<string>();
+               List<String> list_cdm = new List<string>();
+               List<int> temp = new List<int>();
+
+                int x;
+                int k;
+                int[] index = new int[5];
+                int[] arrayindex = new int[5];  
+
+                List<int> distinct1=new List<int>();
+               string  connectionString = "server=.;database=db1;Trusted_Connection=true";
+               string sql,sql1,sql2,sql3;
+
+               System.IO.StreamWriter file = new System.IO.StreamWriter(@"D:\WriteLines2.txt");
+
+               SqlCommand  command,command1,command2,command3; 
+               SqlDataReader dataReader,dataReader1,dataReader3;
+               SqlConnection  connection = new SqlConnection(connectionString);
+               
+               connection.Open();
+               sql = "Select * from table_npn";
+               command = new SqlCommand(sql,connection);
+              
+              // sql1 = "select * from cdm_new";
+               sql1 = "select * from splitups";
+               command1 = new SqlCommand(sql1, connection);
+               string temp_str,temp_str1;
+               dataReader = command.ExecuteReader();
+             
+               while (dataReader.Read())
+                {
+                    temp_str = dataReader["pn"].ToString();
+                    list_pn.Add(temp_str.ToLower());
+                }
+                
+                dataReader.Close();
+                command.Dispose();
+               
+                dataReader1 = command1.ExecuteReader();
+              
+                while (dataReader1.Read())
+                {
+
+                    list_cdm.Add(dataReader1["column1"].ToString().ToLower());
+                }
+
+                dataReader1.Close();
+                command1.Dispose();
+
+             List<int> dd=new List<int>();
+             for (int i = 0; i < list_cdm.Count; i++)
+             {
+                 for (int j = 0; j < list_pn.Count; j++)
+                {
+                    x = levenshtein.Compute(list_cdm[i], list_pn[j]);//(cdm,pn,levdis) 
+                    temp.Add(x);
+                }
+
+                distinct1 = temp.Distinct().ToList();
+                distinct1.Sort();
+
+                for (k = 0; k <=3; k++)
+                {
+                    //Console.WriteLine(distinct1[k]);
+                    index[k] = distinct1[k];
+                    //temp.IndexOf(temp.Min());
+
+                    for (int m = 0; m < list_pn.Count; m++)
+                    {
+                        if (index[k] == temp[m])
+                        {
+                           // Console.WriteLine(i + "\t" + list_cdm[i] + "\t" + "\t" + list_pn[m] + "\t" + index[k]);
+                            file.WriteLine(i + "\t" + list_cdm[i] + "\t" + "\t" + list_pn[m] + "\t" + index[k]);
+                        }
+                      
+                    }
+                }
+
+                distinct1.Clear();
+                temp.Clear();
+
+            }
+                connection.Close();
+
+        }
+    }
+}

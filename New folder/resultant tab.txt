@@ -1,0 +1,101 @@
+CDMCode,CDMDescription,cdmwithoutspec
+,,Prednisone
+,,Ethyl Alcohol
+,,Heparin
+,,Emla Cream
+,,Blood Units Setup Processing
+,,Leucovorin Ca
+,,Fluoxetine
+,,Measles mumps rubella Vacc Tcid
+,,Enoxaparin
+,,Ciprofloxacin
+,,Warfarin Sodium
+,,Metoclopramide
+,,Levothyroxine Sod
+,,Mycophenolate
+,,Dexamethasone
+,,Dipyridamole
+,,Adenosine
+,,Diflunisal
+,,Lidocaine
+,,Morphine Tubex
+,,Haloperidol Lactate Sus
+,,Nicardipine
+,,Proctofoam Mis
+,,Nitroglycerin
+,,Iothalamate Megii
+,,Demeclocycline
+,,Ciclopirox
+,,Mudd Mixture
+,,Vitamin D
+,,Vitamin B W C
+,,Methycellulose Pdr
+,,Terazosin
+,,Itraconazole
+,,Cromolyn Sodium Oph
+,,Foscarnet
+,,Levothyroxine Sod
+,,Voltaren Gel
+,,Vasopressin
+,,Nitroglycerin
+,,Irinotecan
+,,Marcaine Epi
+,,Marcaine Plain
+,,Oxycodone Tb
+,,Aspirin Dipyridamole
+,,Ciprofloxacin Hcl
+,,Dextroamphetamine Amphetamine
+,,Hydroxyzine Hcl
+,,Nitroglycerin Spray Tl Spry
+,,Nystatin Topical Powd
+,,Neomycin Polymyxin Gu Irr
+,,Artificial Tears hypromellose Opht Drop
+,,Clindamycin Dextrose Pgbk
+,,Mesalamine Tbec
+,,Ferrous Sulfate Iron Drop
+,,Lactobacillus Acidoph Bulgar Million Cell
+,,Nystatin Topical
+,,Clonidine Hcl
+,,Rifampin
+,,Diatrizoate Meglumine Sodium
+,,Granisetron Hcl
+,,Betamethasone Acet sod Phos Susp
+,,Methylene Blue antidote
+,,Azelastine Nasl Spra
+,,Potassium Chloride Meq
+,,Lidocaine Dextrose
+,,Dopamine Dextrose
+,,Thiamine Hcl vitamin B
+,,Brimonidine
+,,Fluticasone Actuation Inhalation Hfaa
+,,Hb Rx Except Medicaid
+,,Pancrelipase lip Prot Amyl
+,,Diphenhydramine Zinc Acetate Crea
+,,Formoterol Cpdv Each Blist Pack
+,,Morphine Syrg
+,,Diphenhydramine
+,,Cosyntropin Solr
+,,Levofloxacin Pgbk
+,,Tranexamic Acid
+,,Phytonadione vitamin K
+,,Fenofibrate
+,,Pepto Bismol oz
+,,Balmex
+,,Morphine Sulf
+,,Clonazepam
+,,Benztropine
+,,Ascorbic Acid
+,,Insulin Human Reg
+,,Naloxone
+,,Epinephrine
+,,Climara Trans mng Pat
+,,Mannitol
+,,Fluorescein
+,,Vincristine
+,,Aminocaproic
+,,Albumin
+,,Lidocaine
+,,Dactinomycin
+,,
+,,Iopamidol
+,,Ethanolamine

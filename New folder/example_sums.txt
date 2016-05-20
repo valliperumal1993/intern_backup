@@ -1,0 +1,38 @@
+             foreach (var df in values2)
+             {   
+                 split_count = df.Count();
+               
+
+                 for (int j = 0; j < df.Count(); j++)
+                 {
+                     sql_insert = "'" + df[j] + "',";
+                     final_sql_insert = sql_insert.TrimEnd(',');
+                      column_count = (Int32)command1.ExecuteScalar();
+                      if (column_count >= split_count)
+                      {
+                          for (int i = 1; i <= column_count - split_count; i++)
+                      {
+                            column_name =  column_name+"column" + i + ",";
+                      } 
+                      final_column_name = column_name.TrimEnd(',');
+                      sql2 = "INSERT INTO db1.dbo.splitups (" + final_column_name + ") VALUES (" + final_sql_insert + ")";
+                    //  sql2 = "INSERT INTO db1.dbo.splitups  VALUES (" + final_sql_insert + ")";
+                      command2 = new SqlCommand(sql2, connection);
+                      command2.ExecuteNonQuery();
+                      }
+                      else
+                      {
+                          for (int i = column_count; i <=split_count; i++)
+                          {
+                              column_name1 = column_name1 + "column" + i + ",";
+                              sql3 = "ALTER TABLE splitups ADD column" + (i+1) + " varchar(50)";
+                              command3 = new SqlCommand(sql3, connection);
+                              command3.ExecuteNonQuery();
+                          }
+                          final_column_name1 = column_name1.TrimEnd(',');
+                          sql2 = "INSERT INTO db1.dbo.splitups("+ final_column_name1 +")  VALUES (" + final_sql_insert + ")";
+                          command2 = new SqlCommand(sql2, connection);
+                          command2.ExecuteNonQuery();
+                      }
+                  }
+               }

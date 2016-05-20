@@ -1,0 +1,8 @@
+ca,calcium
+sod,sodium
+phos,phosphourus
+pot,potassium
+apap,acetominophen
+paracetomol,acetominophen
+aspirin,butalbital
+bupap,butalbital

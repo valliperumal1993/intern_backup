@@ -1,0 +1,100 @@
+6497.200211,F/ Prednisone 5 Mg Tabs,Prednisone
+33503486,Ethyl Alcohol Absolut 5ml  Inj,Ethyl Alcohol
+33508776,Heparin 100u/Ml 3ml In 12ml In,Heparin
+33502845,Emla Cream 30gm            Crm,Emla Cream
+32781501,# Blood Units Setup/Processing,
+33500004,Leucovorin Ca 100mg        Inj,Leucovorin calcium
+33500018,Fluoxetine 20mg Cap,Fluoxetine
+M41670,"Measles,mumps,rubella Vacc(pf) 1,000-12,500 Tcid5,Measles mumps rubella Vacc Tcid
+33500798,Enoxaparin 60mg/0.6ml      Inj,Enoxaparin
+33500809,Ciprofloxacin 750mg Tab,Ciprofloxacin
+33500860,Warfarin Sodium 5mg        Tab,Warfarin Sodium
+33503688,Metoclopramide 150mg Inj,Metoclopramide
+33504168,Levothyroxine Sod 0.3mg Tab,Levothyroxine sodium
+33501308,Mycophenolate 500mg 2.5ml  Liq,Mycophenolate
+33501354,Dexamethasone 4mg/Ml 5ml   Inj,Dexamethasone
+33501545,Dipyridamole 50mg          Tab,Dipyridamole
+33503766,Adenosine 90mg/30ml Vial Inj,Adenosine
+33501671,Diflunisal 500mg           Tab,Diflunisal
+33502282,Lidocaine 4% 5ml           Inj,Lidocaine
+33501119,Morphine 10mg/Ml Tubex     Inj,Morphine Tubex
+33508026,Haloperidol Lactate Or Sus 25m,Haloperidol Lactate Sus
+33504174,Nicardipine 0.1mg/Ml 20ml Inj,Nicardipine
+33503749,Proctofoam 15gm            Mis,Proctofoam
+33507036,Nitroglycerin 2% Oint 1gm  Top,Nitroglycerin
+33500625,Iothalamate Megii 250ml    Inj,Iothalamate Megii
+33501515,Demeclocycline 300mg       Tab,Demeclocycline
+33501050,Ciclopirox .77% 15gm Crm,Ciclopirox
+33501785,Mudd2 Mixture 23ml Liq,Mudd Mixture
+33501839,Vitamin D 60ml             Liq,VitaminD
+33506968,Vitamin B W/ C             Tab,VitaminBWC
+33503366,Methycellulose 19gm U/D    Pdr,Methycellulose
+33503377,Terazosin 2mg              Cap,Terazosin
+33503426,Itraconazole 100mg Tab,Itraconazole
+33503613,Cromolyn Sodium 4% Soln Oph,Cromolyn Sodium
+33504328,Foscarnet 24mg/Ml 250ml    Inj,Foscarnet
+33503862,Levothyroxine Sod 0.5mg Inj,Levothyroxine sodium
+70208565,Voltaren Gel 1% 100 Gm,Voltaren Gel
+70202316,Vasopressin Amp 2o U/1ml,Vasopressin
+57001146,Nitroglycerin .4mg Sl Tab,Nitroglycerin
+D601104981,Irinotecan 100mg/5ml Inj,Irinotecan
+769797,Marcaine W/Epi  0.25% 50 Ml Vial (or),Marcaine Epi
+938458,Marcaine 0.50% Plain 50ml,Marcaine Plain
+D590110480200250,Oxycodone 80 Mg Tb12,Oxycodone Tb
+1212,Aspirin-Dipyridamole 25-200 Mg Oral Cm12,butalbital Dipyridamole
+2520,Ciprofloxacin Hcl 750 Mg Oral Tab,Ciprofloxacin Hcl
+4812,Dextroamphetamine-Amphetamine 10 Mg Oral Tab,Dextroamphetamine Amphetamine
+9479,Hydroxyzine Hcl 10 Mg/5 Ml Oral Soln,Hydroxyzine Hcl
+14500,Nitroglycerin 400 McG/Spray Tl Spry,Nitroglycerin
+17164,"Nystatin 100,000 Unit/Gram Topical Powd",Nystatin Topical Powd
+19816,"Neomycin-Polymyxin B Gu 40 Mg-200,000 Unit/Ml Irr,Neomycin Polymyxin Gu Irr
+20626,Artificial Tears(hypromellose) 0.5 % Opht Drop,Artificial Tears hypromellose Opht Drop
+20711,Clindamycin In 5 % Dextrose 600 Mg/50 Ml Iv Pgbk,Clindamycin Dextrose Pgbk
+74830,Mesalamine 1.2 Gram Oral Tbec,Mesalamine Tbec
+96152,Ferrous Sulfate 15 Mg Iron (75 Mg)/Ml Oral Drop,Ferrous Sulfate Iron Drop
+100070,Lactobacillus Acidoph-L.Bulgar 1 Million Cell Oral,Lactobacillus Acidoph Bulgar Cell
+3501,"Nystatin 100,000 Unit/Gram Topical Oint",Nystatin Topical
+5181,Clonidine Hcl 0.3 Mg Oral Tab,Clonidine Hcl
+800908,Rifampin 20 Mg/Ml Oral Soln,Rifampin
+3668,Diatrizoate Meglumine-D.Sodium 66-10 % Oral Soln,Diatrizoate Meglumine Sodium
+7758,Granisetron Hcl 1 Mg Oral Tab,Granisetron Hcl
+9565,"Betamethasone Acet,sod Phos 6 Mg/Ml Inj Susp",Betamethasone Acet sodium phosphourus Susp
+13715,Methylene Blue (antidote) 1 % (10 Mg/Ml) Iv Soln,Methylene Blue antidote
+17326,Azelastine 137 McG (0.1 %) Nasl Spra,Azelastine Nasl Spra
+29474,Potassium Chloride 2 Meq/Ml Iv Soln,Potassium Chloride Meq
+72407,Lidocaine In 5 % Dextrose (pf) 4 Mg/Ml (0.4 %) Iv ,Lidocaine Dextrose
+96015,"Dopamine In 5 % Dextrose 400 Mg/250 Ml (1,600 McG,Dopamine Dextrose
+M5445,Thiamine Hcl (vitamin B1) 100 Mg Po Tabs,ThiamineHclvitaminB
+27041003,Brimonidine 0.1%  10 Ml,Brimonidine
+20027,Fluticasone 110 McG/Actuation Inhalation Hfaa,Fluticasone Actuation Hfaa
+636000200-510621,Hb Rx 636 Except Medicaid 250,Hb Rx Medicaid
+637000000-105426,"Pancrelipase (lip-Prot-Amyl) 10,500-25,000 -43,75,Pancrelipase lip Prot Amyl
+637000000-16299,Diphenhydramine-Zinc Acetate 2-0.1 % Crea,Diphenhydramine Zinc Acetate Crea
+637000000-20951,Formoterol 12 McG Cpdv 60 Each Blist Pack,Formoterol Cpdv Each Blist Pack
+409125830,Morphine 4 Mg/Ml Syrg 1 Ml Syringe,Morphine Syrg
+641037621,Diphenhydramine 50 Mg/Ml Soln,Diphenhydramine
+781344095,Cosyntropin 0.25 Mg Solr,Cosyntropin Solr
+25021013281,Levofloxacin In D5w 250 Mg/50 Ml Pgbk,Levofloxacin Pgbk
+250000000-510230,Tranexamic Acid 2 G/75ml Inj,Tranexamic Acid
+MED11024,Phytonadione (vitamin K1) 5 Mg Tablet,PhytonadionevitaminK
+33501826,Fenofibrate 200mg Cap,Fenofibrate
+33503016,Pepto Bismol 8oz Liq,Pepto Bismol
+33508631,Balmex 57gm Ointment Top,Balmex
+33504654,Morphine Sulf 20mg/Ml 5ml Liq,Morphine Sulf
+33500847,Clonazepam 2mg             Tab,Clonazepam
+33500878,Benztropine 2mg/2ml Inj,Benztropine
+33501161,Ascorbic Acid 250mg Po,Ascorbic Acid
+33510059,Insulin Human Reg 100u/Ml 10ml,Insulin Human Reg
+33501774,Naloxone 0.4mg/Ml 1ml Syr Inj,Naloxone
+33501781,Epinephrine 10mcg/Ml 10ml  Syr,Epinephrine
+33503082,Climara Trans 0.05mng/D    Pat,Climara Trans
+33512466,Mannitol 25% 12 500mg  50ml,Mannitol
+33504123,Fluorescein 10% Amp 5ml    Inj,Fluorescein
+33507055,Vincristine 1mg/1ml Vial Iv,Vincristine
+33502092,Aminocaproic 250mg/Ml 1ml  Inj,Aminocaproic
+33500516,Albumin (inj),Albumin
+33503491,Lidocaine 1% 30ml Inj,Lidocaine
+33501522,Dactinomycin 500mcg/Vl Iv,Dactinomycin
+33508540,Code Not Used,
+33509671,Iopamidol 61% 15ml         Inj,Iopamidol
+33500651,Ethanolamine Ol. 5% 2ml    Amp,Ethanolamine

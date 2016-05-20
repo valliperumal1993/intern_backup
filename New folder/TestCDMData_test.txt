@@ -1,0 +1,101 @@
+CDMCode	CDMDescription
+6497.200211	F/ Prednisone 5 Mg Tabs
+33503486	Ethyl Alcohol Absolut 5ml  Inj
+33508776	"Heparin 100u/Ml 3ml In 12ml "In"
+33502845	Emla Cream 30gm            Crm
+32781501	# Blood Units Setup/Processing
+33500004	Leucovorin Ca 100mg        Inj
+33500018	Fluoxetine 20mg Cap
+M41670	"Measles,mumps,rubella Vacc(pf) 1,000-12,500 Tcid50/0.5 Ml Sc Solr"
+33500798	Enoxaparin 60mg/0.6ml      Inj
+33500809	Ciprofloxacin 750mg Tab
+33500860	Warfarin Sodium 5mg        Tab
+33503688	Metoclopramide 150mg Inj
+33504168	Levothyroxine Sod 0.3mg Tab
+33501308	Mycophenolate 500mg 2.5ml  Liq
+33501354	Dexamethasone 4mg/Ml 5ml   Inj
+33501545	Dipyridamole 50mg          Tab
+33503766	Adenosine 90mg/30ml Vial Inj
+33501671	Diflunisal 500mg           Tab
+33502282	Lidocaine 4% 5ml           Inj
+33501119	Morphine 10mg/Ml Tubex     Inj
+33508026	Haloperidol Lactate Or Sus 25m
+33504174	Nicardipine 0.1mg/Ml 20ml Inj
+33503749	Proctofoam 15gm            Mis
+33507036	Nitroglycerin 2% Oint 1gm  Top
+33500625	Iothalamate Megii 250ml    Inj
+33501515	Demeclocycline 300mg       Tab
+33501050	Ciclopirox .77% 15gm Crm
+33501785	Mudd2 Mixture 23ml Liq
+33501839	Vitamin D 60ml             Liq
+33506968	Vitamin B W/ C             Tab
+33503366	Methycellulose 19gm U/D    Pdr
+33503377	Terazosin 2mg              Cap
+33503426	Itraconazole 100mg Tab
+33503613	Cromolyn Sodium 4% Soln Oph
+33504328	Foscarnet 24mg/Ml 250ml    Inj
+33503862	Levothyroxine Sod 0.5mg Inj
+70208565	Voltaren Gel 1% 100 Gm
+70202316	Vasopressin Amp 2o U/1ml
+57001146	Nitroglycerin .4mg Sl Tab
+D601104981	Irinotecan 100mg/5ml Inj
+769797	Marcaine W/Epi  0.25% 50 Ml Vial (or)
+938458	Marcaine 0.50% Plain 50ml
+D590110480200250	Oxycodone 80 Mg Tb12
+1212	Aspirin-Dipyridamole 25-200 Mg Oral Cm12
+2520	Ciprofloxacin Hcl 750 Mg Oral Tab
+4812	Dextroamphetamine-Amphetamine 10 Mg Oral Tab
+9479	Hydroxyzine Hcl 10 Mg/5 Ml Oral Soln
+14500	Nitroglycerin 400 McG/Spray Tl Spry
+17164	"Nystatin 100,000 Unit/Gram Topical Powd"
+19816	"Neomycin-Polymyxin B Gu 40 Mg-200,000 Unit/Ml Irr Soln"
+20626	Artificial Tears(hypromellose) 0.5 % Opht Drop
+20711	Clindamycin In 5 % Dextrose 600 Mg/50 Ml Iv Pgbk
+74830	Mesalamine 1.2 Gram Oral Tbec
+96152	Ferrous Sulfate 15 Mg Iron (75 Mg)/Ml Oral Drop
+100070	Lactobacillus Acidoph-L.Bulgar 1 Million Cell Oral Tab
+3501	"Nystatin 100,000 Unit/Gram Topical Oint"
+5181	Clonidine Hcl 0.3 Mg Oral Tab
+800908	Rifampin 20 Mg/Ml Oral Soln
+3668	Diatrizoate Meglumine-D.Sodium 66-10 % Oral Soln
+7758	Granisetron Hcl 1 Mg Oral Tab
+9565	"Betamethasone Acet,sod Phos 6 Mg/Ml Inj Susp"
+13715	Methylene Blue (antidote) 1 % (10 Mg/Ml) Iv Soln
+17326	Azelastine 137 McG (0.1 %) Nasl Spra
+29474	Potassium Chloride 2 Meq/Ml Iv Soln
+72407	Lidocaine In 5 % Dextrose (pf) 4 Mg/Ml (0.4 %) Iv Solp
+96015	"Dopamine In 5 % Dextrose 400 Mg/250 Ml (1,600 McG/Ml) Iv Soln"
+M5445	Thiamine Hcl (vitamin B1) 100 Mg Po Tabs
+27041003	Brimonidine 0.1%  10 Ml
+20027	Fluticasone 110 McG/Actuation Inhalation Hfaa
+636000200-510621	Hb Rx 636 Except Medicaid 250
+637000000-105426	"Pancrelipase (lip-Prot-Amyl) 10,500-25,000 -43,750 Unit Cpdr 100 Each Bottle"
+637000000-16299	Diphenhydramine-Zinc Acetate 2-0.1 % Crea
+637000000-20951	Formoterol 12 McG Cpdv 60 Each Blist Pack
+409125830	Morphine 4 Mg/Ml Syrg 1 Ml Syringe
+641037621	Diphenhydramine 50 Mg/Ml Soln
+781344095	Cosyntropin 0.25 Mg Solr
+25021013281	Levofloxacin In D5w 250 Mg/50 Ml Pgbk
+250000000-510230	Tranexamic Acid 2 G/75ml Inj
+MED11024	Phytonadione (vitamin K1) 5 Mg Tablet
+33501826	Fenofibrate 200mg Cap
+33503016	Pepto Bismol 8oz Liq
+33508631	Balmex 57gm Ointment Top
+33504654	Morphine Sulf 20mg/Ml 5ml Liq
+33500847	Clonazepam 2mg             Tab
+33500878	Benztropine 2mg/2ml Inj
+33501161	Ascorbic Acid 250mg Po
+33510059	Insulin Human Reg 100u/Ml 10ml
+33501774	Naloxone 0.4mg/Ml 1ml Syr Inj
+33501781	Epinephrine 10mcg/Ml 10ml  Syr
+33503082	Climara Trans 0.05mng/D    Pat
+33512466	Mannitol 25% 12 500mg  50ml
+33504123	Fluorescein 10% Amp 5ml    Inj
+33507055	Vincristine 1mg/1ml Vial Iv
+33502092	Aminocaproic 250mg/Ml 1ml  Inj
+33500516	Albumin (inj)
+33503491	Lidocaine 1% 30ml Inj
+33501522	Dactinomycin 500mcg/Vl Iv
+33508540	Code Not Used
+33509671	Iopamidol 61% 15ml         Inj
+33500651	Ethanolamine Ol. 5% 2ml    Amp
